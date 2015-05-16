@@ -1,0 +1,14 @@
+c:\users\robson\documents\visual studio 2013\Projects\Projeto_All_Hardware\Projeto_All_Hardware\bin\Debug\Projeto_All_Hardware.exe.config
+c:\users\robson\documents\visual studio 2013\Projects\Projeto_All_Hardware\Projeto_All_Hardware\bin\Debug\Projeto_All_Hardware.exe
+c:\users\robson\documents\visual studio 2013\Projects\Projeto_All_Hardware\Projeto_All_Hardware\bin\Debug\Projeto_All_Hardware.pdb
+c:\users\robson\documents\visual studio 2013\Projects\Projeto_All_Hardware\Projeto_All_Hardware\obj\Debug\Projeto_All_Hardware.csprojResolveAssemblyReference.cache
+c:\users\robson\documents\visual studio 2013\Projects\Projeto_All_Hardware\Projeto_All_Hardware\obj\Debug\Projeto_All_Hardware.All_Hardware.resources
+c:\users\robson\documents\visual studio 2013\Projects\Projeto_All_Hardware\Projeto_All_Hardware\obj\Debug\Projeto_All_Hardware.Properties.Resources.resources
+c:\users\robson\documents\visual studio 2013\Projects\Projeto_All_Hardware\Projeto_All_Hardware\obj\Debug\Projeto_All_Hardware.TelaVendas.resources
+c:\users\robson\documents\visual studio 2013\Projects\Projeto_All_Hardware\Projeto_All_Hardware\obj\Debug\Projeto_All_Hardware.csproj.GenerateResource.Cache
+c:\users\robson\documents\visual studio 2013\Projects\Projeto_All_Hardware\Projeto_All_Hardware\obj\Debug\Projeto_All_Hardware.exe
+c:\users\robson\documents\visual studio 2013\Projects\Projeto_All_Hardware\Projeto_All_Hardware\obj\Debug\Projeto_All_Hardware.pdb
+c:\users\robson\documents\visual studio 2013\Projects\Projeto_All_Hardware\Projeto_All_Hardware\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\robson\documents\visual studio 2013\Projects\Projeto_All_Hardware\Projeto_All_Hardware\bin\Debug\MySql.Fabric.Plugin.dll
+c:\users\robson\documents\visual studio 2013\Projects\Projeto_All_Hardware\Projeto_All_Hardware\bin\Debug\MySql.Web.v20.dll
+c:\users\robson\documents\visual studio 2013\Projects\Projeto_All_Hardware\Projeto_All_Hardware\obj\Debug\Projeto_All_Hardware.csproj.Projeto_All_Hardware.exe.config
